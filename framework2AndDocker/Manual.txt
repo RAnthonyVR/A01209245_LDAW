@@ -1,0 +1,16 @@
+Tutorial para abrir el servicio:
+
+1. Asegurar tener prendido docker.
+2. Descargar el archivo.
+3. cd laravel_docker
+4. docker-compose up
+5. Abrir un buscador e instara en la URL: localhost:9000
+
+
+Ignorar:
+Comandos que seguí para instalar laravel en docker:
+	composer create-project laravel/laravel laravel_docker
+	cd laravel_docker
+	srv
+	docker-compose up
+	localhost:9000
