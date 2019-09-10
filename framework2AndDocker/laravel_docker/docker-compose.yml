@@ -2,7 +2,7 @@ version: '3'
 
 services:
   web:
-    container_name: ${APP_NAME}_web
+    container_name: Docker_Laravel_web
     build:
       context: ./docker/web
     ports:
